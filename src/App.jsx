@@ -10,7 +10,7 @@ import List from "./pages/List/List";
 import Orders from "./pages/Orders/Orders";
 
 const App = () => {
-const url = "https://food-backend-62oi.onrender.com/";
+const url = "https://food-backend-62oi.onrender.com";
 
   return (
     <div>
